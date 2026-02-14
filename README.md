@@ -182,3 +182,8 @@ Dieses Projekt demonstriert die Fähigkeit:
 - Conversion- und Retention-Treiber zu identifizieren
 - Produktentscheidungen mit quantitativen Erkenntnissen zu unterstützen
 - Business-relevante Handlungsempfehlungen abzuleiten
+
+
+## Dashboard Preview
+
+![Dashboard Overview](assets/dashboard-overview.png)
